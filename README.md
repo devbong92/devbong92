@@ -2,8 +2,8 @@
 
 <div align='center'>
        
-#### 👋 Welcome my github profile          
-                
+#### 👋 Hi I'm devbong92          
+<!-- ![](https://gh-hits.nomadcoders.workers.dev/view?username=devbong92) --> 
                           
                        
 ###  Skills            
