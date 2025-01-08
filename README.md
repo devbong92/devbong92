@@ -25,9 +25,11 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <br/>
 
+<!--
 <img src="https://img.shields.io/badge/-C%23-512BD4?&style=flat-square&logo=sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?&style=flat-square&logo=cplusplus&logoColor=white"/>
 <br/>
+-->
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
