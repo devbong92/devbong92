@@ -8,7 +8,7 @@
                           
                        
 ###  Skills            
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-777BB4?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-F7DF1E?style=flat-square&logo=PHP&logoColor=black"/>
