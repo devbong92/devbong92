@@ -29,10 +29,10 @@
 <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
 
 ### - 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbong92&langs_count=8)](https://github.com/devbong92/github-readme-stats)
+| ![devbong92's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbong92&show_icons=true&theme=flag-india) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbong92&layout=compact)](https://github.com/devbong92/github-readme-stats) |
+| ------------- | ------------- |
 
-### - 
-![devbong92's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbong92&show_icons=true&theme=codeSTACKr)
+
 
 </div>
 
