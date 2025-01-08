@@ -1,10 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%World!&fontSize=80&fontAlign=70&desc=bong92's%20GitHub%20Profile&descAlignY=65&descAlign=85&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20World!&fontSize=80&fontAlign=70&desc=bong92's%20GitHub%20Profile&descAlignY=65&descAlign=85&animation=twinkling)
 
 <div align='left'>
        
 #### 👋 Hi I'm devbong92          
 
+- Backend Developer
+- learning the game server
 
+---------------
 
 <!-- ![](https://gh-hits.nomadcoders.workers.dev/view?username=devbong92) --> 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevbong92&count_bg=%23FF5500&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
