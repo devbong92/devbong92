@@ -2,7 +2,7 @@
              
 <div align='left'>
                                      
-#### 👋 Hi I'm devbong92          
+#### 💬 What kind of developer am I ?
                            
 - Backend Developer
 - learning the game server   
