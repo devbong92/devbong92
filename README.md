@@ -3,8 +3,8 @@
 <div align='left'>
                                      
 #### 💬 What kind of developer am I ?
-                           
-- Backend Developer
+                                 
+- Backend Developer 
 - learning the game server   
                       
 ---------------                    
