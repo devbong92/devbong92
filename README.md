@@ -1,12 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20World!&fontSize=80&fontAlign=70&desc=bong92's%20GitHub%20Profile&descAlignY=65&descAlign=85&animation=twinkling)
-               
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20World!&fontSize=80&fontAlign=70&desc=bong92's%20GitHub%20Profile&descAlignY=65&descAlign=85&animation=twinkling)
+-->
+
+<img width="1896" alt="페루_와카치나_야경" src="https://github.com/user-attachments/assets/d2912626-4dc5-47f3-981d-fc1e3e639cb3" />
+
 <div align='left'>  
                                                   
-#### 💬 What kind of developer am I ?  
-                                            
-- Backend Developer    
-- learning the game server   
-                                    
+#### 🧭 나침반(Compass) 
+> : 길을 찾기 위한 기준
+
+- 도전을 두려워하지 않기
+- 많은 것을 보고 즐기기
+
 ---------------                    
          
 <!-- ![](https://gh-hits.nomadcoders.workers.dev/view?username=devbong92) --> 
