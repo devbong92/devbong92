@@ -3,7 +3,18 @@
                                              
 <img width="1896" alt="페루_와카치나_야경" src="https://github.com/user-attachments/assets/d2912626-4dc5-47f3-981d-fc1e3e639cb3" />
                           
----------------                                           
+---------------      
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/devbong92?pet-id=1" width="1000" height="120"/>
+</a>
+
+<!--
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/devbong92"/>
+</a>
+-->
+---------------      
                        
 <div align='left'>  
                                                   
