@@ -3,10 +3,15 @@
                                              
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/devbong92?pet-id=712981108740183756" width="1000" height="120"/>
-</a>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=devbong92&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/devbong92?pet-id=712984645326979420"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <!--
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/devbong92"/>
