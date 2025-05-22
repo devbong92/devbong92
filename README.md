@@ -1,17 +1,14 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20World!&fontSize=80&fontAlign=70&desc=bong92's%20GitHub%20Profile&descAlignY=65&descAlign=85&animation=twinkling)
 -->
-                                             
-
-
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=devbong92&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/devbong92?pet-id=712984645326979420"
-    width="600"
-    height="120"
+    src="https://render.gitanimals.org/lines/devbong92?pet-id=712984617199977598"
+    width="1000"
+    height="130"
   />
 </a>
-  
+    
 <!--
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/devbong92"/>
