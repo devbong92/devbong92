@@ -32,7 +32,9 @@
 </div>   
                    
 <div align='center'>
-                       
+
+<!--       
+
 ###  Skills            
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
@@ -42,11 +44,11 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <br/>
 
-<!--
+<-
 <img src="https://img.shields.io/badge/-C%23-512BD4?&style=flat-square&logo=sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?&style=flat-square&logo=cplusplus&logoColor=white"/>
 <br/>
--->
+->
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -80,6 +82,10 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
 ### -
+
+-->
+
+
 
 | ![devbong92's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbong92&show_icons=true&theme=great-gatsby&count_private=true&hide=stars) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbong92&layout=compact&theme=great-gatsby)](https://github.com/devbong92/github-readme-stats) |
 | ------------- | ------------- |
